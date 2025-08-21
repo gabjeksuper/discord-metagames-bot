@@ -1,6 +1,6 @@
 # Discord Metagames Bot
 
-A production-ready Discord bot for **economy + casino mini-games**, built with **Node.js (discord.js v14)** and **MySQL**.  
+A self-hosted Discord bot for **economy + casino mini-games**, built with **Node.js (discord.js v14)** and **MySQL**.  
 Features **multilingual** UX (English, Italiano, Español, Türkçe), per-guild settings and clean slash-command UX.
 
 > ⚠️ Security: It is a self-hosted Discord Bot on a VPS with dual login which makes it impossible for external users to access it. The bot is active 24/7.
